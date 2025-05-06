@@ -1,0 +1,7 @@
+test@example.com
+containns white spaces
+start this string
+#$%%^&
+123456
+123-456-789
+this string ends with END

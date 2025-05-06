@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "ranga",
+        "Age": 21,
+        "City": "kashi"
+    },
+    {
+        "Name": "raghu",
+        "Age": 24,
+        "City": "bijapur"
+    },
+    {
+        "Name": {"firstname":"ravi","lastname":"gowda"},
+        "Age": 29,
+        "City": "tumkur"
+    },
+    {
+        "Name": "rajesj",
+        "Age": 26,
+        "City": "banglore"
+    }
+]
