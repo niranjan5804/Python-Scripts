@@ -3,7 +3,7 @@ from show_balance import show_balance
 from withdraw import withdraw
 
 
-print("🏦 Welcome to the Python Bank")
+print("Welcome to the Python Bank")
 
 # main.py
 from deposit import deposit
@@ -38,7 +38,7 @@ def main():
             break
 
         else:
-            print("❗ Invalid option. Please choose between 1 and 4.")
+            print("Invalid option. Please choose between 1 and 4.")
 
 if __name__ == "__main__":
     main()

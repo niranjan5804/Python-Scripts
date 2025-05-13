@@ -8,5 +8,6 @@ def withdraw(balance,amount):
     else:
         balance -= amount
         print(f"✅ Withdrawn: ${amount:.2f}")
+        
     show_balance(balance)
     return balance

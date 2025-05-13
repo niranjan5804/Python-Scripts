@@ -10,13 +10,16 @@
         "City": "bijapur"
     },
     {
-        "Name": {"firstname":"ravi","lastname":"gowda"},
+        "Name": {
+            "firstname": "ravi",
+            "lastname": "gowda"
+        },
         "Age": 29,
         "City": "tumkur"
     },
     {
         "Name": "rajesj",
         "Age": 26,
-        "City": "banglore"
+        "City": "norway"
     }
 ]
