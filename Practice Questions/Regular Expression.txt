@@ -1,0 +1,22 @@
+Theory Questions:
+1. What is a regular expression, and how is it used in Python?
+2. Explain the difference between re.match(), re.search(), and re.findall() in Python.
+3. What is the purpose of the re.compile() function in Python?
+4. Describe the use of special characters in regular expressions, such as . (dot), ^ (caret), and $ (dollar sign).
+5. What are character classes in regular expressions, and how are they used?
+6. How does the re.sub() function work in Python, and what are its common use cases?
+7. How does the re.sub() function work in Python, and what are its common use cases?
+8. What is the significance of the re.IGNORECASE (or re.I) flag in Python's regular expressions?
+9. What is the role of the re.split() function, and how does it differ from the str.split() method?
+10. What are named groups in regular expressions, and how do they differ from regular groups?
+
+Practical Questions:
+1. Write a Python program that uses a regular expression to check if a string starts with the word "Hello".
+2. Create a regular expression that matches a valid email address and write a Python function to validate email strings.
+3. Write a Python script to extract all the dates in the format DD-MM-YYYY from a given text..
+4. Implement a Python function that finds all the words in a string that start with a capital letter using regular expressions.
+5. Write a Python program that uses a regular expression to replace all occurrences of a pattern in a string with another pattern.
+6. Write a Python function that removes all non-alphanumeric characters from a string using regular expressions.
+7. Create a regular expression to match phone numbers in the format (123) 456-7890 and write a function to find them in a text.
+8. Write a Python script to split a string based on multiple delimiters (e.g., space, comma, and semicolon) using regular expressions.
+9. Using regular expressions, extract all the URLs from a given block of text.

@@ -1,0 +1,21 @@
+Theory Questions:
+1. What is exception handling in Python, and why is it important?
+2. Explain the difference between syntax errors and exceptions.
+3. Describe the try-except block in Python and its components.
+4. What is the purpose of the finally block in exception handling?
+5. What are built-in exceptions? Name at least five commonly used ones.
+6. Explain the concept of custom exceptions in Python.
+7. What is the significance of the raise statement in Python?
+8. Can you have multiple except blocks? If so, how are they executed?
+9. What happens if an exception is not handled in Python?
+
+Practical Questions:
+1. Write a Python function that takes two numbers and returns their division. Handle the case where the divisor is zero.
+2. Implement a try-except block to handle a ValueError when converting a string to an integer.
+3. Write a program that reads a file and handles the FileNotFoundError if the file does not exist.
+4. Create a custom exception called NegativeValueError that is raised when a function receives a negative number as input.
+5. Implement a program that handles exceptions when accessing elements outside the bounds of a list.
+6. Write a Python script that opens a file, writes data to it, and ensures the file is properly closed using finally.
+7. Write a function that calculates the square root of a number and raises an exception if the number is negative.
+8. Implement a with statement in a program to handle file operations, ensuring that exceptions are managed correctly.
+9. Create a program that handles both IndexError and KeyError within the same try-except block.

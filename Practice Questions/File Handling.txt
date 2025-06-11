@@ -1,0 +1,12 @@
+1. Explain the difference between read(), readline(), and readlines() methods in Python.
+2. Write a Python program to count the number of lines in a text file.
+3. How would you append text to an existing file without overwriting the existing content?
+4. What are the modes available for opening a text file in Python? Explain each mode with examples.
+5. Write a Python script to read a text file and print only the lines that contain the word "Python".
+6. What is the difference between csv.reader and csv.DictReader in Python? Provide examples.
+7. Write a Python program to read a CSV file and display the contents in a tabular format.
+8. How would you write a list of dictionaries to a CSV file in Python?
+9. What is JSON, and how is it different from a Python dictionary?
+10. Write a Python program to read a JSON file and print the values associated with a specific key.
+11. What is the purpose of json.dumps() and json.loads()? Provide examples.
+12. How would you convert a Python dictionary to a JSON file and save it on disk?
